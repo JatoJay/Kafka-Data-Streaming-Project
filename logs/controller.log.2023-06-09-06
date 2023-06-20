@@ -1,0 +1,1 @@
+[2023-06-09 06:39:36,982] DEBUG [Controller id=0] Topics not in preferred replica for broker 0 Map() (kafka.controller.KafkaController)

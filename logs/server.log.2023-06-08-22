@@ -1,0 +1,7 @@
+[2023-06-08 22:53:23,917] INFO Expiring session 0x10000841f4a0002, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2023-06-08 22:53:49,248] INFO Unable to read additional data from client, it probably closed the socket: address = /127.0.0.1:38142, session = 0x10000841f4a0002 (org.apache.zookeeper.server.NIOServerCnxn)
+[2023-06-08 22:54:35,090] INFO Invalid session 0x10000841f4a0002 for client /127.0.0.1:38152, probably expired (org.apache.zookeeper.server.ZooKeeperServer)
+[2023-06-08 22:54:40,454] INFO Invalid session 0x10000841f4a0002 for client /127.0.0.1:38154, probably expired (org.apache.zookeeper.server.ZooKeeperServer)
+[2023-06-08 22:55:31,320] INFO Expiring session 0x10000841f4a0003, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2023-06-08 22:56:42,057] INFO Expiring session 0x10000841f4a0004, timeout of 18000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2023-06-08 22:57:19,256] INFO Invalid session 0x10000841f4a0004 for client /127.0.0.1:38160, probably expired (org.apache.zookeeper.server.ZooKeeperServer)
